@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<NewMessages xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <newMessages>
+    <NewMessage>
+      <messageContent>&lt;b&gt;Sent by : Raj&lt;/b&gt;
+"I know what is going on and I’m hating this feeling, will you tell me what is going on before I teach you a lesson?"</messageContent>
+      <sender>Amira</sender>
+      <reciever>Raj</reciever>
+      <hour>11</hour>
+      <minutes>55</minutes>
+      <seconds>49</seconds>
+      <year>2020</year>
+      <month>JUN</month>
+      <day>3</day>
+      <typeOfMessage>Text</typeOfMessage>
+    </NewMessage>
+    <NewMessage>
+      <messageContent>Why did you threaten Amira? And what did you mean by teaching a lesson?</messageContent>
+      <sender>Amira</sender>
+      <reciever>Raj</reciever>
+      <hour>11</hour>
+      <minutes>55</minutes>
+      <seconds>49</seconds>
+      <year>2020</year>
+      <month>JUN</month>
+      <day>3</day>
+      <typeOfMessage>Text</typeOfMessage>
+    </NewMessage>
+    <NewMessage>
+      <messageContent>I was fuming with anger. I didn't mean anything, I just wanted her to know that she's hurt me and we won't talk again.</messageContent>
+      <sender>Raj</sender>
+      <reciever>Amira</reciever>
+      <hour>11</hour>
+      <minutes>55</minutes>
+      <seconds>49</seconds>
+      <year>2020</year>
+      <month>JUN</month>
+      <day>3</day>
+      <typeOfMessage>Text</typeOfMessage>
+    </NewMessage>
+    <NewMessage>
+      <messageContent>What did Amira do?</messageContent>
+      <sender>Amira</sender>
+      <reciever>Raj</reciever>
+      <hour>11</hour>
+      <minutes>55</minutes>
+      <seconds>49</seconds>
+      <year>2020</year>
+      <month>JUN</month>
+      <day>3</day>
+      <typeOfMessage>Text</typeOfMessage>
+    </NewMessage>
+    <NewMessage>
+      <messageContent>I honestly don't wanna talk about it, but Amira had gone out with Karan on 26th March.</messageContent>
+      <sender>Raj</sender>
+      <reciever>Amira</reciever>
+      <hour>11</hour>
+      <minutes>55</minutes>
+      <seconds>49</seconds>
+      <year>2020</year>
+      <month>JUN</month>
+      <day>3</day>
+      <typeOfMessage>Text</typeOfMessage>
+    </NewMessage>
+    <NewMessage>
+      <messageContent />
+      <sender>Amira</sender>
+      <reciever>Shweta</reciever>
+      <hour>11</hour>
+      <minutes>55</minutes>
+      <seconds>49</seconds>
+      <year>2020</year>
+      <month>JUN</month>
+      <day>3</day>
+      <typeOfMessage>Image</typeOfMessage>
+      <nameOfImage>Shweta_Hangout1</nameOfImage>
+    </NewMessage>
+    <NewMessage>
+      <messageContent>This is not relevant, detective!</messageContent>
+      <sender>Shweta</sender>
+      <reciever>Amira</reciever>
+      <hour>11</hour>
+      <minutes>55</minutes>
+      <seconds>49</seconds>
+      <year>2020</year>
+      <month>JUN</month>
+      <day>3</day>
+      <typeOfMessage>Text</typeOfMessage>
+    </NewMessage>
+  </newMessages>
+</NewMessages>

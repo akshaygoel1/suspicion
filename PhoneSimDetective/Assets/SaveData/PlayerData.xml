@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <presentHour>12</presentHour>
+  <presentMinutes>19</presentMinutes>
+  <presentSeconds>46</presentSeconds>
+  <presentYear>2020</presentYear>
+  <presentMonth>JUN</presentMonth>
+  <presentDay>3</presentDay>
+  <currentHour>12</currentHour>
+  <currentMinutes>19</currentMinutes>
+  <currentSeconds>46</currentSeconds>
+  <currentYear>2020</currentYear>
+  <currentMonth>JUN</currentMonth>
+  <currentDay>3</currentDay>
+</PlayerData>

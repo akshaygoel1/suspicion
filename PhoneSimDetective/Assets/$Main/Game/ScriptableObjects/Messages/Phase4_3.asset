@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37bab5b1950fb45409457c380dba1267, type: 3}
+  m_Name: Phase4_3
+  m_EditorClassIdentifier: 
+  messageObject:
+    messageContent: So I was wondering, do you wanna go on a real date sometime?
+    sender: 1
+    reciever: 4
+    dateOfMessage:
+      year: 2020
+      month: 3
+      day: 27
+    timeOfMessage:
+      hour: 9
+      minutes: 8
+      seconds: 21
+    isMessageDeleted: 1
+    deletedDate:
+      year: 2020
+      month: 3
+      day: 31
+    deletedTime:
+      hour: 6
+      minutes: 52
+      seconds: 23
+    seen: 0
+    evidence: {fileID: 0}
+    isEvidenceAttach: 0
+    typeOfMessage: 0

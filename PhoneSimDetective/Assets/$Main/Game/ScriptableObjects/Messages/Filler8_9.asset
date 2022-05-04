@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37bab5b1950fb45409457c380dba1267, type: 3}
+  m_Name: Filler8_9
+  m_EditorClassIdentifier: 
+  messageObject:
+    messageContent: "Sure :) I\u2019ll see you around"
+    sender: 4
+    reciever: 1
+    dateOfMessage:
+      year: 2020
+      month: 3
+      day: 7
+    timeOfMessage:
+      hour: 15
+      minutes: 3
+      seconds: 15
+    isMessageDeleted: 0
+    deletedDate:
+      year: 2001
+      month: 1
+      day: 1
+    deletedTime:
+      hour: 0
+      minutes: 0
+      seconds: 0
+    seen: 0
+    evidence: {fileID: 0}
+    isEvidenceAttach: 0
+    typeOfMessage: 0

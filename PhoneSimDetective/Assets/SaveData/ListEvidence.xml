@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ListEvidence xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <evidences>
+    <Evidence>
+      <nameOfEvidenceFile>Phase2_3</nameOfEvidenceFile>
+      <typeOfEvidence>Text</typeOfEvidence>
+    </Evidence>
+    <Evidence>
+      <nameOfEvidenceFile>BirthdayMsg1_11</nameOfEvidenceFile>
+      <typeOfEvidence>Text</typeOfEvidence>
+    </Evidence>
+    <Evidence>
+      <nameOfEvidenceFile>Shweta_Hangout1</nameOfEvidenceFile>
+      <typeOfEvidence>Image</typeOfEvidence>
+    </Evidence>
+  </evidences>
+</ListEvidence>
